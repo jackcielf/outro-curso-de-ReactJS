@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: verdana, helvetica, serif;
+}
+
+body {
+	background: #141414;
+}
+
+img {
+	width: 70px;
+}
+
+button {
+	min-width: 50px;
+	padding: 5px;
+	border: none;
+	border-radius: 5px;
+	display: block;
+	margin: 10px;
+}
+
+a {
+	color: purple;
+	margin: 10px;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
