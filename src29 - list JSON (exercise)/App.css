@@ -1,0 +1,13 @@
+table {
+	width: 400px;
+	border-collapse: collapse;
+}
+
+td, th {
+	padding: 5px;
+	text-align: center;
+}
+
+.setCategory {
+	margin-top: 20px;
+}
